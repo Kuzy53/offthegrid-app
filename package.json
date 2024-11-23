@@ -1,7 +1,7 @@
 {
   "name": "offgrid-app",
   "version": "0.1.0",
-  "homepage": "https://Kuzy53.github.io/offthegrid-app",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
